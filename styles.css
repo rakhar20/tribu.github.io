@@ -5,6 +5,7 @@
 }
 
 body{
+  height:100vh;
   color:#9f9f9f;
   background: linear-gradient(180deg, rgb(110,0,0) 30%,rgb(0,0,0));
   display:flex;
