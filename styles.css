@@ -71,7 +71,7 @@ hr {
 h3 {
   margin-top: -7px;
 }
-@media screen and (max-width:600px) {
+@media screen and (max-width:665px) {
   body{
     height:100vh;
   }
